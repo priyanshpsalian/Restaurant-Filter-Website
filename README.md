@@ -1,3 +1,7 @@
+# Description
+
+Platform that allows users to search for and find restaurants based on specific criteria such as location, cuisine type, price range, and ratings. The website also provides additional information about the restaurants, such as menus, reviews, and photos. Users can filter their search results by selecting multiple criteria, making it easy to find the perfect restaurant for their needs. It's a great way to discover new places to eat and plan your next meal or dining out experience.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
