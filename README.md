@@ -1,6 +1,23 @@
-# Description
+# Food Ordering Website
 
-Platform that allows users to search for and find restaurants based on specific criteria such as location, cuisine type, price range, and ratings. The website also provides additional information about the restaurants, such as menus, reviews, and photos. Users can filter their search results by selecting multiple criteria, making it easy to find the perfect restaurant for their needs. It's a great way to discover new places to eat and plan your next meal or dining out experience.
+Platform that allows users to browse menus, select items, and place orders for delivery or pickup from local restaurants.
+
+## Features
+
+1. **User registration and login**: This allows customers to create an account, save their information, and view their order history.
+
+2. **Restaurant search and filtering**: Users should be able to search for restaurants by location, cuisine, and other criteria.
+
+3. **Menu browsing**: Customers should be able to view restaurant menus and select items to add to their cart.
+
+4. **Customer support**: The website should have a way for customers to contact customer support if they have any issues with their orders.
+
+5. **Admin Panel**: A separate panel for the restaurant to manage their menu and orders.
+
+6. **Integration with the restaurant's Point of Sale (POS) system**: To ensure that the orders are synced with the restaurant's system in real-time.
+
+The website should also be mobile-responsive and accessible from any device, including smartphones and tablets.
+
 
 # Getting Started with Create React App
 
